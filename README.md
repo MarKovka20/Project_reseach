@@ -6,4 +6,6 @@ Also we considered classification task of model to be in the top 5% and regressi
 
 [1] Li, L. et al. (2018) Hyperband: A novel bandit-based approach to hyperparameter optimization, arXiv.org. Available at: https://arxiv.org/abs/1603.06560 (Accessed: 18 May 2023). 
 
+[Draft with literature review and preliminary results](https://docs.google.com/document/d/1A0nhXXczofwsRUDMEmy6MImaiPf9JAJ5CazqGcetn5Q/edit?usp=sharing)
+
 
