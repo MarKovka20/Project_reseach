@@ -1,6 +1,6 @@
 #  Neural Architecture Search with early stopping
 
-**Автор:** Kovaleva Maria
+**Author:** Kovaleva Maria
 
 The work is dedicated to the problem of neural architecture search. The main problem of neural architecture search optimization algorithms is the time, which they spend. We propose to solve this problem by early stopping. We consider early stopping criteria based on the change point detection algorithm CUSUM and add this early stopping to the popular hyperparameters optimization algorithm Hyperband [1]. Proposed method was tested at nas-bench nlp и cifar10 benchmarks. Our method found better architectures for the less time.
 
