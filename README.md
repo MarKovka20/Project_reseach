@@ -8,6 +8,6 @@ Also we considered classification task of model to be in the top 5% and regressi
 
 [Draft with literature review and preliminary results](https://docs.google.com/document/d/1A0nhXXczofwsRUDMEmy6MImaiPf9JAJ5CazqGcetn5Q/edit?usp=sharing)
 
-[Presentation]()
+[Presentation](https://github.com/MarKovka20/Project_reseach/blob/main/presentation.pdf)
 
 
